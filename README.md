@@ -37,6 +37,6 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 ```
 
 ```
-
+JLOG
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
